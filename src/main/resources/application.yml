@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /error-page
+
+spring:
+  security:
+    user:
+      name: username
+      password: password
